@@ -155,7 +155,3 @@ This experiment demonstrates that prompt engineering significantly influences th
 **Register Number:** 212224060134
 
 ---
-
-## License
-
-This project is intended for educational and academic purposes.
